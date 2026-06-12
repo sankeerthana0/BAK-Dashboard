@@ -1,0 +1,6 @@
+{
+  "name": "BAK KPI Dashboard",
+  "description": "An interactive Business KPI Analytics Dashboard featuring operational trend analysis, branch performance tracking, anomaly-detection forecasting, and real-time SQL execution simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
